@@ -1,6 +1,6 @@
 ## Jeong Min Oh - @Mark.Oh
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=ggomi&show_icons=true&theme=solarized-light&exclude_repo=ggomi.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=ggomi&show_icons=true&theme=solarized-light&exclude_repo=ggomi.github.io,webtoon)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggomi&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
