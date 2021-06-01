@@ -5,7 +5,7 @@
 
 <div>
 
-![commit-mon](http://15.164.170.96:5000/api/v1/commit-mon?username=ggomi)
+<!-- ![commit-mon](http://15.164.170.96:5000/api/v1/commit-mon?username=ggomi) -->
 
 </div>
 
